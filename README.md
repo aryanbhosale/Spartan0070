@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spartan0070
+- 👋 Hi, I’m @aryanbhosale
 - 👀 I’m interested in tech, robotics, aerospace, cosmology and programming
 - 🌱 I’m currently learning API with Postman
 - 💞️ I’m looking to collaborate on an app that arranges your pantry on the basis of your weekly requirements which uses self-learning AI to predict and help you choose your pantry
