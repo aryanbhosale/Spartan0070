@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanbhosale
 - 👀 I’m interested in tech, robotics, aerospace, cosmology and programming
-- 🌱 I’m currently learning django and postgreSQL
+- 🌱 I’m currently learning AI/ML and ReactJS
 - 💞️ I'm looking for any project to work on. I'll be glad to collaborate.
 - 📫 How to reach me ...My email: aryan.bhosale1719@gmail.com
 
