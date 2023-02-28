@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">BITS Pilani `25(BE Electronics and Communications). Exploring web dev, electronics, AI/ML and Data Science. Open source newbie. Web3<3<3<3</h3>
+<h3 align="center">BITS Pilani `25(BE Electronics and Communications). Exploring web dev, electronics, AI/ML and Data Science. Open source newbie. Exploring Web3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbhosale&label=Profile%20views&color=0e75b6&style=flat" alt="aryanbhosale" /> </p>
 
