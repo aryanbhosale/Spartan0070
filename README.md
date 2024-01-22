@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/thearyanbhosale" target="blank"><img src="https://img.shields.io/twitter/follow/thearyanbhosale?logo=twitter&style=for-the-badge" alt="thearyanbhosale" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Solana, Smart Contracts**
+- 🌱 I’m currently learning **TypeScript, TRPC, Stripe Payments, and PDF integration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryanbhosale](https://github.com/aryanbhosale)
+- 👨‍💻 All my projects are available at [https://github.com/aryanbhosale](https://github.com/aryanbhosale)
 
 - 💬 Ask me about **How I juggle grades and development in college :P**
 
 - 📫 How to reach me **aryan.bhosale1719@gmail.com**
-
-- 📄 Know about my experiences [https://aryanbhosale.github.io](https://aryanbhosale.github.io)
 
 - ⚡ Fun fact **I mix old monk with coke, cabo and coffee**
 
