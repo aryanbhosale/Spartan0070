@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Bhosale</h1>
 <h3 align="center">BITS Pilani `25(BE Electronics and Communications). Exploring web dev and IoT</h3>
-<h3 align="center">I am a highly skilled and motivated Web Developer and Electronics and Communications major, specializing in Embedded Systems and IoT engineering, Data Analysis, and Software Development. With a strong background in both programming and hardware, I possess a unique blend of technical expertise that allows me to bridge the gap between software and hardware solutions. I thrive in challenging environments and excel at leading teams, evident through my role as the Web Development Head at DevSoc and being one of the four teaching assistants in practice school 1 for over 3000 students and professors.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbhosale&label=Profile%20views&color=0e75b6&style=flat" alt="aryanbhosale" /> </p>
 
@@ -37,9 +36,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aryanbhosale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryanbhosale" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanbhosale&show_icons=true&locale=en&layout=compact" alt="aryanbhosale" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanbhosale&show_icons=true&locale=en" alt="aryanbhosale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhosale&" alt="aryanbhosale" /></p>
