@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanbhosale&theme=discord" alt="aryanbhosale" /></a> </p>
 
-- 🔭 I’m currently working on [Open Climate Fix](https://github.com/openclimatefix)(https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast)'s [Open Source Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/411AklNM)
+- 🔭 I’m currently working on [Open Climate Fix](https://github.com/openclimatefix)'s [Open Source Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/411AklNM)
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 💬 Ask me about **JavaScript, MERN Stack, Python, Django, and Java**
 - 📫 How to reach me **aryan.bhosale1719@gmail.com**
