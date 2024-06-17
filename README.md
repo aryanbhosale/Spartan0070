@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanbhosale&theme=discord" alt="aryanbhosale" /></a> </p>
 
 - 🔭 I’m currently working on [Open Climate Fix](https://github.com/openclimatefix)'s [Open Source Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/411AklNM)
-- 💬 Ask me about **JavaScript, MERN Stack, Python, Django, and Java**
-- 📫 How to reach me **aryan.bhosale1719@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/aryanbhosale**
+- 💬 Experienced developer in **JavaScript, MERN Stack, Python, Django, and Java**
+- 📫 Reach out to me on my email **aryan.bhosale1719@gmail.com**
+- 👨‍💻 All of my projects are available **[on my GitHub](https://github.com/aryanbhosale)**
 - 📄 Know about my experiences **[here](https://drive.google.com/file/d/1hhUTuMIcPPWYJKMGTq2j8aUnrd9-57k9/view?usp=sharing)**
 - ⚡ Fun fact **I make amazing cocktails**
 
