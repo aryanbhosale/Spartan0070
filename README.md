@@ -5,11 +5,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanbhosale&theme=discord" alt="aryanbhosale" /></a> </p>
 
 - 🔭 I’m currently working on [Open Climate Fix](https://github.com/openclimatefix)'s [Open Source Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/411AklNM)
-- 🌱 I’m currently learning **Data Structures & Algorithms**
 - 💬 Ask me about **JavaScript, MERN Stack, Python, Django, and Java**
 - 📫 How to reach me **aryan.bhosale1719@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/aryanbhosale**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1GXxIm3GPVkhNSzbJmbEQO92h1QdQ7-s8/view?usp=sharing**
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1hhUTuMIcPPWYJKMGTq2j8aUnrd9-57k9/view?usp=sharing)**
 - ⚡ Fun fact **I make amazing cocktails**
 
 <div> <a href="https://twitter.com/thearyanbhosale" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
