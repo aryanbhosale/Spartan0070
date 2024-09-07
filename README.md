@@ -4,12 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanbhosale&theme=discord" alt="aryanbhosale" /></a> </p>
 
-- 🔭 I’m currently working on [Open Climate Fix](https://github.com/openclimatefix)'s [Open Source Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/411AklNM)
+- 🔭 I’m currently working on [CEGIS](https://github.com/cegis-org/)'s [Discrepancy Simulation Tool](https://github.com/cegis-org/discsim/) for my internship as a Software Engineer there
 - 💬 Experienced developer in **JavaScript, MERN Stack, Python, Django, and Java**
 - 📫 Reach out to me on my email **aryan.bhosale1719@gmail.com**
 - 👨‍💻 All of my projects are available **[on my GitHub](https://github.com/aryanbhosale)**
-- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1hhUTuMIcPPWYJKMGTq2j8aUnrd9-57k9/view?usp=sharing)**
-- ⚡ Fun fact **I make amazing cocktails**
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1M7TlbI_udwuMyDtjh9KOvziyKdi-BdRY/view?usp=sharing)**
+- ⚡ Fun fact **Binged 2 shows in a day**
 
 <div> <a href="https://twitter.com/thearyanbhosale" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aryan-bhosale-648323223" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
